@@ -1,0 +1,7 @@
+infinity_actions.settings:
+  path: '/admin/config/infinity-actions/settings'
+  defaults:
+    _form: '\Drupal\infinity_actions\Form\SettingsForm'
+    _title: 'VBO actions settings'
+  requirements:
+    _permission: 'infinity_actions admin'

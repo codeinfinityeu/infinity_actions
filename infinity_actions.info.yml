@@ -1,0 +1,13 @@
+name: 'Custom actions'
+type: module
+description: 'Provide additional actions for VBO.'
+package: 'Infinity'
+core_version_requirement: ^10 || ^11
+configure: infinity_actions.settings
+
+dependencies:
+  - drupal:workflows
+  - drupal:views_bulk_operations
+
+version: '1.0'
+project: 'infinity_actions'

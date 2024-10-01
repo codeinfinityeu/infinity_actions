@@ -1,0 +1,7 @@
+<?php
+
+/**
+ * @file
+ * Provides hooks and alters for print
+ */
+

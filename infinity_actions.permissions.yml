@@ -1,0 +1,4 @@
+# Administer
+infinity_actions admin:
+  title: 'Administer custom VBO actions'
+  description: 'Administer custom VBO actions module'
